@@ -1,0 +1,15 @@
+Justification 
+
+Accuracy scores of Each algorithms:
+
+1. KNN accuracy score: 0.772888573456352
+2. Logistic Regression accuracy score: 0.8161816891412349 
+3. Naive Bayes accuracy score: 0.7579843860894251
+4. SVM accuracy score: 0.8211497515968772
+5. Decision Tree: 0.7274662881476224
+
+SVM (Support Vector Machines) has the highest accuracy among the tested algorithms.SVM is less sensitive to outliers compared to some other algorithms, making it robust in the presence of noise.SVM works well in high-dimensional spaces, making it suitable for datasets with many features.
+
+SVM aims to find the optimal hyperplane that best separates different classes. It is effective in handling complex and nonlinear relationships, making it suitable for datasets with intricate patterns.
+
+The higher accuracy score of SVM suggests that, in the dataset, the relationships between features and the target variable(Churn) are better captured by the flexible and adaptable decision boundaries that SVM can create. It successfully navigated the complexity of the data, resulting in a more accurate model compared to the other algorithms.
